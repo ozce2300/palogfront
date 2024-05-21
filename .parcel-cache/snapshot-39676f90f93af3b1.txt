@@ -28,7 +28,7 @@
 73C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\utils\package.json133607878927595662 0
 94C:\Users\ozgur\Desktop\palogfront\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133607878930565646 0
 104C:\Users\ozgur\Desktop\palogfront\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133607878924175666 0
-38C:\Users\ozgur\Desktop\palogfront\dist133608033741467560 1
+38C:\Users\ozgur\Desktop\palogfront\dist133608041850923765 1
 95C:\Users\ozgur\Desktop\palogfront\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts133607878926655736 0
 68C:\Users\ozgur\Desktop\palogfront\node_modules\csso\dist\csso.esm.js133607878926085639 0
 122C:\Users\ozgur\Desktop\palogfront\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133607878909285664 0
@@ -82,7 +82,7 @@
 41C:\Users\ozgur\Desktop\palogfront\src\css133607879917783312 1
 99C:\Users\ozgur\Desktop\palogfront\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133607878925915700 0
 61C:\Users\ozgur\Desktop\palogfront\node_modules\dotenv\LICENSE133607878909945708 0
-48C:\Users\ozgur\Desktop\palogfront\src\index.html133607994325646342 0
+48C:\Users\ozgur\Desktop\palogfront\src\index.html133608040269804397 0
 93C:\Users\ozgur\Desktop\palogfront\node_modules\csso\node_modules\css-tree\cjs\lexer\trace.cjs133607878930305841 0
 40C:\Users\ozgur\Desktop\palogfront\src\js133607880458702878 1
 107C:\Users\ozgur\Desktop\palogfront\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js.map133607878920305665 0
@@ -96,7 +96,7 @@
 103C:\Users\ozgur\Desktop\palogfront\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133607878926125703 0
 90C:\Users\ozgur\Desktop\palogfront\node_modules\@swc\helpers\_\_async_iterator\package.json133607878934915684 0
 81C:\Users\ozgur\Desktop\palogfront\node_modules\css-tree\cjs\syntax\config\mix.cjs133607878927755673 0
-53C:\Users\ozgur\Desktop\palogfront\src\registrera.html133607999562339713 0
+53C:\Users\ozgur\Desktop\palogfront\src\registrera.html133608040258227643 0
 90C:\Users\ozgur\Desktop\palogfront\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133607878927685686 0
 55C:\Users\ozgur\Desktop\palogfront\node_modules\argparse133607878914285964 1
 73C:\Users\ozgur\Desktop\palogfront\node_modules\msgpackr\dist\index.js.map133607878922475671 0
@@ -124,7 +124,7 @@
 106C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\config.js133607878918566642 0
 100C:\Users\ozgur\Desktop\palogfront\node_modules\caniuse-lite\data\features\font-variant-alternates.js133607878940145679 0
 117C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133607878920055650 0
-56C:\Users\ozgur\Desktop\palogfront\src\css\stylesheet.css133607999885950023 0
+56C:\Users\ozgur\Desktop\palogfront\src\css\stylesheet.css133608041850512695 0
 98C:\Users\ozgur\Desktop\palogfront\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133607878920125662 0
 59C:\Users\ozgur\Desktop\palogfront\node_modules\caniuse-lite133607878947835686 1
 92C:\Users\ozgur\Desktop\palogfront\node_modules\csso\node_modules\css-tree\cjs\utils\List.cjs133607878926856986 0
@@ -1088,7 +1088,7 @@
 98C:\Users\ozgur\Desktop\palogfront\node_modules\css-select\node_modules\domutils\lib\traversal.d.ts133607878925915700 0
 95C:\Users\ozgur\Desktop\palogfront\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133607878918325658 0
 82C:\Users\ozgur\Desktop\palogfront\node_modules\svgo\plugins\convertStyleToAttrs.js133607878925366353 0
-54C:\Users\ozgur\Desktop\palogfront\dist\registrera.html133607999568386897 0
+54C:\Users\ozgur\Desktop\palogfront\dist\registrera.html133608038724526901 0
 110C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common\List.js133607878927335668 0
 102C:\Users\ozgur\Desktop\palogfront\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133607878932905877 0
 125C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\StyleSheet.js133607878930606774 0
@@ -5741,7 +5741,7 @@
 93C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133607878921268260 0
 106C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\core\test\fixtures\application-targets\package.json133607878934585677 0
 78C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\core\src\BundleGraph.js133607878923716270 0
-61C:\Users\ozgur\Desktop\palogfront\dist\index.fb3f94c9.css.map133607999890229089 0
+61C:\Users\ozgur\Desktop\palogfront\dist\index.fb3f94c9.css.map133608041850903736 0
 81C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\core\src\CommittedAsset.js133607878924555870 0
 78C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\core\src\Environment.js133607878927015721 0
 72C:\Users\ozgur\Desktop\palogfront\node_modules\@parcel\core\src\index.js133607878927235679 0
@@ -5892,6 +5892,6 @@
 56C:\Users\ozgur\Desktop\palogfront\node_modules\.bin\svgo133607878949885652 0
 60C:\Users\ozgur\Desktop\palogfront\node_modules\.bin\svgo.ps1133607878949885652 0
 61C:\Users\ozgur\Desktop\palogfront\dist\index.1f3391a3.css.map133607881025326363 0
-49C:\Users\ozgur\Desktop\palogfront\dist\index.html133607999567266945 0
-57C:\Users\ozgur\Desktop\palogfront\dist\index.fb3f94c9.css133607999890159058 0
 60C:\Users\ozgur\Desktop\palogfront\dist\index.18dbc454.js.map133608033741437565 0
+49C:\Users\ozgur\Desktop\palogfront\dist\index.html133608039539513736 0
+57C:\Users\ozgur\Desktop\palogfront\dist\index.fb3f94c9.css133608041850853710 0
