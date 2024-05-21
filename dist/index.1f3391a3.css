@@ -1,0 +1,35 @@
+body {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 10px;
+  padding: 8px;
+  display: block;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #28a745;
+  border: none;
+  padding: 10px 15px;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.message {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+  padding: 15px;
+}
+/*# sourceMappingURL=index.1f3391a3.css.map */
