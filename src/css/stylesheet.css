@@ -16,6 +16,7 @@ body {
 
 header{
     display: flex;
+    flex-direction: row-reverse;
     align-items: center;
     background-color: rgba(255, 255, 255, 0.3); 
     width: 100%;
@@ -25,6 +26,7 @@ header{
 ul {
     display: flex;
     justify-content: flex-end;
+    margin-right:40px;
 }
 
 li{
@@ -48,9 +50,7 @@ h2{
     color: white;
     margin-bottom: 20px;
 }
-form {
-    margin-bottom: 20px;
-}
+
 input {
     display: block;
     margin-bottom: 10px;
@@ -60,7 +60,6 @@ input {
 }
 button {
     margin-top: 20px;
-
     padding: 10px 15px;
     background-color: #28a745;
     color: white;
@@ -91,4 +90,9 @@ button:hover {
     margin: 0 auto;
     border-radius: 5px;
 
+}
+
+#error-message {
+    margin-top: 20px;
+    color: red;
 }
